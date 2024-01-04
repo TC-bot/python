@@ -1,1 +1,4 @@
 https://gist.github.com/angelabauer
+
+web scraping capstone - data entry automation solution:
+https://gist.github.com/TheMuellenator/1318b1084a74e9b559f9820438b4a931
